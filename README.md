@@ -1,0 +1,1 @@
+daily usage types for work with backend API for frontend
